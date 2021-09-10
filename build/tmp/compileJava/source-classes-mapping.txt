@@ -1,0 +1,44 @@
+fr/nilowk/bot/utils/commands/CommandExecutor.java
+ fr.nilowk.bot.utils.commands.CommandExecutor
+fr/nilowk/bot/utils/commands/CommandRegistry.java
+ fr.nilowk.bot.utils.commands.CommandRegistry
+fr/nilowk/bot/commands/CommandClose.java
+ fr.nilowk.bot.commands.CommandClose
+fr/nilowk/bot/commands/CommandConfig.java
+ fr.nilowk.bot.commands.CommandConfig
+fr/nilowk/bot/commands/CommandRules.java
+ fr.nilowk.bot.commands.CommandRules
+fr/nilowk/bot/commands/CommandPlay.java
+ fr.nilowk.bot.commands.CommandPlay
+fr/nilowk/bot/commands/CommandClear.java
+ fr.nilowk.bot.commands.CommandClear
+fr/nilowk/bot/commands/CommandKick.java
+ fr.nilowk.bot.commands.CommandKick
+fr/nilowk/bot/commands/CommandStopBot.java
+ fr.nilowk.bot.commands.CommandStopBot
+fr/nilowk/bot/commands/CommandBan.java
+ fr.nilowk.bot.commands.CommandBan
+fr/nilowk/bot/commands/CommandSt.java
+ fr.nilowk.bot.commands.CommandSt
+fr/nilowk/bot/commands/CommandCconfig.java
+ fr.nilowk.bot.commands.CommandCconfig
+fr/nilowk/bot/commands/CommandHelp.java
+ fr.nilowk.bot.commands.CommandHelp
+fr/nilowk/bot/commands/CommandWarn.java
+ fr.nilowk.bot.commands.CommandWarn
+fr/nilowk/bot/utils/MessageUtils.java
+ fr.nilowk.bot.utils.MessageUtils
+fr/nilowk/bot/commands/CommandAnnonce.java
+ fr.nilowk.bot.commands.CommandAnnonce
+fr/nilowk/bot/utils/Config.java
+ fr.nilowk.bot.utils.Config
+fr/nilowk/bot/commands/CommandNew.java
+ fr.nilowk.bot.commands.CommandNew
+fr/nilowk/bot/utils/commands/Command.java
+ fr.nilowk.bot.utils.commands.Command
+fr/nilowk/bot/Main.java
+ fr.nilowk.bot.Main
+fr/nilowk/bot/utils/commands/MessageManager.java
+ fr.nilowk.bot.utils.commands.MessageManager
+fr/nilowk/bot/utils/UtilsManager.java
+ fr.nilowk.bot.utils.UtilsManager
